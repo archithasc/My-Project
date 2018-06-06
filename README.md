@@ -2,6 +2,24 @@
 <html>
 <head>
 	<title>School</title>
+	<style type="text/css">
+		h1{
+	font-size: 50px;
+	font-family:" times new roman";
+
+	color:#000206;
+}
+body{
+	background-color: white;
+}
+.pic{
+	background-image: url(http://hamronib.com/wp-content/uploads/2017/05/global-academy-of-technology.jpg);
+}
+
+.last{
+	font-size: 10px;
+	background-color:#DCEFF1;
+	</style>
 	
 </head>
 <body>
