@@ -2,8 +2,6 @@
 <html>
 <head>
 	<title>School</title>
-	
-
 </head>
 <body>
 	<div class="pic">
