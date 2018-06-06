@@ -3,6 +3,28 @@
 <head>
 	<title>School</title>
 	<link href="./style.css" type="text/css" rel="stylesheet">
+	  <style type="text/css">
+		  
+		    h1{
+	font-size: 50px;
+	font-family:" times new roman";
+
+	color:#000206;
+}
+body{
+	background-color: white;
+}
+.pic{
+	background-image: url(http://hamronib.com/wp-content/uploads/2017/05/global-academy-of-technology.jpg);
+}
+
+.last{
+	font-size: 10px;
+	background-color:#DCEFF1;
+}
+
+</style>
+
 </head>
 <body>
 	<div class="pic">
@@ -37,48 +59,4 @@ Global School grooms, nurtures and develops its students beyond academics, TO ge
 
 </body>
 </html>
-h1{
-	font-size: 50px;
-	font-family:" times new roman";
 
-	color:#000206;
-}
-body{
-	background-color: white;
-}
-.pic{
-	background-image: url(http://hamronib.com/wp-content/uploads/2017/05/global-academy-of-technology.jpg);
-}
-
-.last{
-	font-size: 10px;
-	background-color:#DCEFF1;
-}
-.img
-{
-	float: right;
-}
-#vission {
-	border: 5px;
-	border-style: solid;
-	border-color: black;
-    width: 600px;
-    float: left;
-    height: 600px;
-        background-color: #5B85F7;
-}
-.img1{
-	float: right;
-}
-#motto {
-	border: 5px;
-	border-style: solid;
-	border-color: black;
-    width: 600px;
-    float: right;
-    height: 600px;
-    background-color:#5B85F7;
-}
-.img2{
-	float: right;
-}
