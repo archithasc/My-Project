@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT us</title>
+	<style type="text/css">
+		h1{
+	font-size: 50px;
+	font-family:" times new roman";
+
+	color:#000206;
+}
+body{
+	background-color: white;
+}
+.pic{
+	background-image: url(http://hamronib.com/wp-content/uploads/2017/05/global-academy-of-technology.jpg);
+}
+
+.last{
+	font-size: 10px;
+	background-color:#DCEFF1;
+}
+.img
+{
+	float: right;
+}
+#vission {
+	border: 5px;
+	border-style: solid;
+	border-color: black;
+    width: 600px;
+    float: left;
+    height: 600px;
+        background-color: #5B85F7;
+}
+.img1{
+	float: right;
+}
+#motto {
+	border: 5px;
+	border-style: solid;
+	border-color: black;
+    width: 600px;
+    float: right;
+    height: 600px;
+    background-color:#5B85F7;
+}
+.img2{
+	float: right;
+}
+
+	</style>
+</head>
+<body>
+	<div class="About">
+		<a href="file:///C:/Users/Architha/Desktop/school.html">HOME</a>
+	 <h1 >About Us - ACADEMICS</h1>
+	 <img src="https://s3-ap-southeast-1.amazonaws.com/tv-prod/school/photo/25-large.jpg" width="300" height="300" border="2px" /><img src="http://static.dnaindia.com/sites/default/files/1909415.jpg" width="300" height="300"  border="2px" /><img src="http://4.bp.blogspot.com/_yHkayxRQBas/S7x1Vkgfg_I/AAAAAAAAAt8/FwJbyiIBd1g/s1600/DSC00499[1].JPG" width="300" height="300" border="2px" /><img src="http://shantiasiaticsurat.com/html/wp-content/uploads/2016/01/DSC_0947-1024x680.jpg" width="300" height="300" border="2px" />
+
+
+ 
+<p>The School is recognized by state board and offer state curriculum as set in the state Board scheme. Teaching takes place in English with the school offering Kannada, and Hindi as Second and Third Languages.</p>
+ <p>
+The school is also affiliated to the Council for the Indian School certificate Examination (CISCE) and offers the Indian national curriculum as set out in the CISCE scheme. (www.ICSE.nic.in) Teaching takes place in English with the school offering Hindi, and Kannada as Second and Third Languages. </p>
+ <p>
+We employ only experienced and well trained staff. Our teachers are carefully selected to ensure that they have the experience and dedication needed to support every student regardless of his/ her academic level. Regular teacher training is held to ensure that teachers are fully informed of the latest research and developments in education. </p>
+</div>
+<div id="vission">
+<h1 style="background-color: white">VISION</h1>
+<div class="img1"><img src="http://www.vision.idv.hk/vision%20logo.jpg" width="60" height="60" /></div>
+<p>
+Vision is to offer quality education to children, provide a care innovative and stimulating environment, realizing the full potential and celebrating the success of every student, also to develop the child as a whole person, provide them with learning to learn skill, prepare them to lead a successful life, and eager to embrace the challenges of the future and make beneficial contributions to society, be responsible citizen.</p>
+ <p>
+In pursuit of our Vision, we aim to:</p>
+ <ul><em>
+<li>Provide high education which enables all children and student to move onto the next phase in their education without disadvantage.</li>
+
+<li>Develop children’s understanding of, and respect for other cultures and nationalities.</li>
+
+<li>Develop children’s self-confidence and range of social skills and behaviours in order to obtain personal satisfaction and fulfilment in each stage of development.</li>
+
+<li>Develop in children and students the ability to appy themselves to a wide range of educational, social and physical activities.</li>
+<li>
+Promote a code of behaviour which respects the needs and rights of others.</li>
+
+<li>Ensure that parents are informed and involved in their child’s education</li>
+
+
+<li>Provide resources to enable staff to meet improvement targets.</li>
+
+<li>Instil into our students a senesce of responsibilities dedication respect and obedience to be committed citizen of the society.</li></em></ul></p>
+</div>
+<div id="motto">
+	<h1 style="background-color: white">MOTTO</h1>
+<div class="img2">	<img src="http://motto.time.com/images/motto-logo-whiteonred.jpg" width="30" height="30" /></div>
+	<p>
+		
+Our mission is to prepare students to meet the challenges of our changing world by promoting knowledge, skills and responsibility.</p>
+<p>
+It is our endeavour to impart through an environment which helps:
+ <ul><em>
+<li>Creating a safe and comfortable physical environment, as learning is the chief priority because each student is a valued individual with unique needs.</li>
+<li>
+Creating child cantered class rooms where in it enables student to take the responsibility for their learning and their action.</li>
+<li>
+Imparting quality education and variety of instructional approaches and learning activities to develop confident, self-directed, responsible learner. Student can achieve academically to their highest potential .</li>.
+<li>
+Provide innovative instruction through the use of Multiple Intelligence Theory, Cooperative Learning Looping, Interdisciplinary units and exploring individual differences among learners.</li>
+<li>
+Develop curriculum linked links to real life situations utilizing technology to prepare students for the 21st Century.</li>
+<li>
+Impart values, that would drive character traits conducive to appropriate behaviour and positive attitudes can be nurtured.</li>
+	</em></ul></p>
+</div>
+</body>
+</html>
