@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>School</title>
+	
 </head>
 <body>
 	<div class="pic">
@@ -20,8 +21,8 @@ Phone : 91-80-2860-3158   Fax: 91-80-2860-3157</marquee></center></em></p>
 </div>
 <p></p>
 <ul>
-<li><a href="file:///C:/Users/Architha/Desktop/about.html">ABOUT US</a></li>
-<li><a href="file:///C:/Users/Architha/Desktop/fee.html">ACTIVITIES</a></li>
+<li><a href="http://apolloconvent.in/about.html">ABOUT US</a></li>
+<li><a href="http://apolloconvent.in/activities.html">ACTIVITIES</a></li>
 </ul>
  
 <p>Global is renowned for its education and all-round development that it renders to its students. It has always been catering to the needs of its budding students by providing an authentic environment and a friendly atmosphere. We have associate mentors for each of the department and we believe that this “other side of a student's life” must be given a proper sense of empowerment.</p>
@@ -36,4 +37,3 @@ Global School grooms, nurtures and develops its students beyond academics, TO ge
 
 </body>
 </html>
-
