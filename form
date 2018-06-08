@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Forms</title>
+	<style type="text/css">
+		h1{
+			font-size: 50px;
+			color: black;
+			text-align: center;
+		}
+		body{
+			background-image: url(https://qnectu.com/wp-content/uploads/2015/06/abstract-blue-background-1920x720.jpg);
+			background-position: cover;
+		}
+		.form{
+
+			width: 200px;
+			height: 800px;
+		}
+		input[type="text"],textarea{
+			width: 300px;
+			height: 20px;
+			border: 1px solid black;
+			border border-radius: 50%;
+			margin-top: 2px;
+			margin-bottom: 10px;
+			box-sizing: border-box;
+		}
+		input[type="text"]:focus{
+			
+			background-color: #3F64F7;
+			box-shadow: 0 0 0 1px;
+
+			
+			transition: 0.6s all;
+		}
+		textarea:focus{
+			
+			background-color: #4264EC;
+			transition: 0.6s all;
+		}
+		label{
+			color: #fff;
+		}
+
+.form{
+ padding: 10px 500px;
+}
+input[type="submit"]{
+	cursor: pointer;
+	box-border:5px;
+
+	background-color: #1938B0;
+	color:white;
+	border-color: black; 
+}
+
+
+
+	</style>
+</head>
+<body>
+	<h1>FORM FILLING</h1>
+	<div class="form">
+	<form>
+		<label>First Name</label>
+		<input type="text" id="fname" placeholder="enter your first name">
+		<label>Last Name</label>
+		<input type="text" id="lname" placeholder="enter your last name">
+		<label>Address</label>
+		<textarea type="text" id="fname" placeholder=" enter current Address"  style="height: 100px; width: 300px"></textarea>
+		<label>Contact No:</label>
+		<input type="text" id="num" placeholder="enter your phone number">
+		
+		<input type="submit" value="submit">
+		
+	
+
+
+	</form>
+</div>
+
+</body>
+</html>
